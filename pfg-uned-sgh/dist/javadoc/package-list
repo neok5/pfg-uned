@@ -1,0 +1,10 @@
+app
+app.common
+app.common.enums
+app.model
+app.model.datospaciente
+app.model.datospaciente.entity
+app.model.menuprincipal
+app.view_controller
+app.view_controller.datospaciente
+app.view_controller.menuprincipal
