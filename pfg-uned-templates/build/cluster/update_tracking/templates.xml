@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="templates">
+    <module_version install_time="1506289740156" last="true" origin="installer" specification_version="1.0">
+        <file crc="3409581211" name="config/Modules/templates.xml"/>
+        <file crc="1966504460" name="modules/templates.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="GUIForms">
+            <file name="SimpleJIAPanel.form" url="nbresloc:/templates/SimpleJIAPanel.form.template">
+                <!--templates-->
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="SimpleJIAPanel.java" url="nbresloc:/templates/SimpleJIAPanel.java.template">
+                <!--templates-->
+                <attr boolvalue="true" name="template"/>
+                <attr
+                    bundlevalue="templates.Bundle#SimpleJIAPanel_displayName" name="displayName"/>
+                <attr name="iconBase" stringvalue="templates/JIAPanelIcon.png"/>
+                <attr name="instantiatingWizardURL" urlvalue="nbresloc:/templates/SimpleJIADescription.html"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr boolvalue="true" name="requireProject"/>
+            </file>
+            <file name="TabJIAPanel.form" url="nbresloc:/templates/TabJIAPanel.form.template">
+                <!--templates-->
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="TabJIAPanel.java" url="nbresloc:/templates/TabJIAPanel.java.template">
+                <!--templates-->
+                <attr boolvalue="true" name="template"/>
+                <attr
+                    bundlevalue="templates.Bundle#TabJIAPanel_displayName" name="displayName"/>
+                <attr name="iconBase" stringvalue="templates/JIAPanelIcon.png"/>
+                <attr name="instantiatingWizardURL" urlvalue="nbresloc:/templates/TabJIADescription.html"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr boolvalue="true" name="requireProject"/>
+            </file>
+            <file name="TreeViewJIAPanel.form" url="nbresloc:/templates/TreeViewJIAPanel.form.template">
+                <!--templates-->
+                <attr intvalue="0" name="position"/>
+            </file>
+            <file name="TreeViewJIAPanel.java" url="nbresloc:/templates/TreeViewJIAPanel.java.template">
+                <!--templates-->
+                <attr boolvalue="true" name="template"/>
+                <attr
+                    bundlevalue="templates.Bundle#TreeViewJIAPanel_displayName" name="displayName"/>
+                <attr name="iconBase" stringvalue="templates/JIAPanelIcon.png"/>
+                <attr name="instantiatingWizardURL" urlvalue="nbresloc:/templates/TreeViewJIADescription.html"/>
+                <attr name="javax.script.ScriptEngine" stringvalue="freemarker"/>
+                <attr boolvalue="true" name="requireProject"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>
